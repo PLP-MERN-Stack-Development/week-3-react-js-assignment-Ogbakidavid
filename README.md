@@ -44,16 +44,18 @@ This is a front-end project built with **React.js**, **Tailwind CSS**, and **Rea
    ```bash
    git clone https://github.com/your-username/week3-react-app.git
    cd week3-react-app
+   ```
 
 2. Install dependencies:
 
 ```bash
 npm install
-
+```
 3. Run the development server:
 
 ```bash
 npm run dev
+```
 
 Visit the app:
 open http://taskmanager.netlify.app
