@@ -42,7 +42,7 @@ This is a front-end project built with **React.js**, **Tailwind CSS**, and **Rea
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/week3-react-app.git
+   git clone [https://github.com/your-username/week3-react-app.git](https://github.com/PLP-MERN-Stack-Development/week-3-react-js-assignment-Ogbakidavid.git)
    cd week3-react-app
    ```
 
