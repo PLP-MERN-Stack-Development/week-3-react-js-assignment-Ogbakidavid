@@ -55,7 +55,4 @@ npm install
 
 ```bash
 npm run dev
-```
 
-Visit the app:
-open http://taskmanager.netlify.app
